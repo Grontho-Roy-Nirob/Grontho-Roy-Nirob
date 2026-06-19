@@ -115,6 +115,15 @@ Developed a full-stack tool-sharing platform where users can list, discover, and
 
 ---
 
+## 🚆 Metro Rail Ticketing System
+A desktop-based metro rail ticketing application developed using Python and Tkinter. The system manages basic metro operations such as ticket purchase, fare calculation, and passenger handling. It includes special fare categories like student discounts and disability/concession fares, ensuring accessible pricing options. All data is stored locally using JSON for simplicity and persistence.
+
+**Tech Stack:**: Python, Tkinter, JSON (file-based data storage)
+
+🔗 Repository: https://github.com/Grontho-Roy-Nirob/Metro-Rail-System
+
+---
+
 ## 🤖 NLP Text Analysis System
 
 Text classification and sentiment analysis application using Natural Language Processing techniques.
