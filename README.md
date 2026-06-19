@@ -44,6 +44,8 @@ Passionate about building modern web applications, solving problems, and explori
 
 * MongoDB
 * MySQL
+* Oracle
+* PostgreSQL
 
 ## AI / Machine Learning
 
