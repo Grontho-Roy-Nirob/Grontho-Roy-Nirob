@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 Hi, I'm Grontho Roy  
 
 ### 🚀 Full-Stack Web Developer | 🤖 AI Enthusiast | 🎓 Computer Science Student  
@@ -10,8 +8,6 @@ Passionate about building modern web applications, solving problems, and explori
 📍 Based in Bangladesh
 🎓 B.Sc. in Computer Science & Engineering
 💻 Interested in Full-Stack Web Development, Software Engineering, Artificial Intelligence, Machine Learning, and Natural Language Processing (NLP)
-
-</div>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
