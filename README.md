@@ -4,13 +4,14 @@
 
 ### 🚀 Full-Stack Web Developer | 🤖 AI Enthusiast | 🎓 Computer Science Student  
 
-</div>
 
 Passionate about building modern web applications, solving problems, and exploring Artificial Intelligence technologies.
 
 📍 Based in Bangladesh
 🎓 B.Sc. in Computer Science & Engineering
 💻 Interested in Full-Stack Web Development, Software Engineering, Artificial Intelligence, Machine Learning, and Natural Language Processing (NLP)
+
+</div>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
