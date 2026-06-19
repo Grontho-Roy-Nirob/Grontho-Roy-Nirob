@@ -151,23 +151,18 @@ Text classification and sentiment analysis application using Natural Language Pr
 Let’s connect and collaborate on tech, AI, and open-source projects!
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/grontho-roy-5a8184332">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40"/>
-</a>
-
-<a href="https://github.com/Grontho-Roy-Nirob">
-  <img src="https://cdn.simpleicons.org/github/181717" width="40"/>
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100011866234254&mibextid=ZbWKwL">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40"/>
-</a>
-
-<a href="https://www.instagram.com/nirobroy991?igsh=MXdtdWhkc21oMzkycw==">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/grontho-roy-5a8184332" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Grontho-Roy-Nirob" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100011866234254&mibextid=ZbWKwL" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nirobroy991?igsh=MXdtdWhkc21oMzkycw==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
