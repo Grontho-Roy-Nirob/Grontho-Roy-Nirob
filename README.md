@@ -21,58 +21,25 @@ Passionate about building modern web applications, solving problems, and explori
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🛠 Technologies & Tools
+## 🛠 Tools & Technologies
 
-## Frontend
+### Frontend
+`HTML5` `CSS3` `JavaScript` `TypeScript` `React.js` `Next.js` `Tailwind CSS`
 
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* React.js
-* Next.js
-* Tailwind CSS
+### Backend
+`Node.js` `Express.js` `NestJS` `REST API`
 
-## Backend
+### Database
+`MongoDB` `MySQL` `Oracle` `PostgreSQL`
 
-* Node.js
-* Express.js
-* NestJS
-* REST API
+### AI / ML
+`Python` `NumPy` `Pandas` `Scikit-Learn` `NLP` `Deep Learning` `GenAI`
 
-## Database
+### Languages
+`JavaScript` `TypeScript` `Python` `C++` `C#`
 
-* MongoDB
-* MySQL
-* Oracle
-* PostgreSQL
-
-## AI / Machine Learning
-
-* Python
-* NumPy
-* Pandas
-* Scikit-Learn
-* Machine Learning Fundamentals
-* Natural Language Processing (NLP)
-* Deep Learning Basics
-* Generative AI
-
-## Programming Languages
-
-* JavaScript
-* TypeScript
-* Python
-* C++
-* C#
-
-## Tools
-
-* Git
-* GitHub
-* VS Code
-* Postman
-* Jupyter Notebook
+### Tools
+`Git` `GitHub` `VS Code` `Postman` `Jupyter Notebook`
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
