@@ -118,23 +118,37 @@ Text classification and sentiment analysis application using Natural Language Pr
 
 🚀 Let's connect, share ideas, and collaborate on innovative web development, AI, and open-source projects.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/grontho-roy-5a8184332" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg" width="35" height="35" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Grontho-Roy-Nirob" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/github.svg" width="35" height="35" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100011866234254" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/facebook.svg" width="35" height="35" alt="Facebook"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/nirobroy991" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/instagram.svg" width="35" height="35" alt="Instagram"/>
-  </a>
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/grontho-roy-5a8184332" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td width="20"></td>
+    <td align="center">
+      <a href="https://github.com/Grontho-Roy-Nirob" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/github.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td width="20"></td>
+    <td align="center">
+      <a href="https://www.facebook.com/profile.php?id=100011866234254" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/facebook.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td width="20"></td>
+    <td align="center">
+      <a href="https://www.instagram.com/nirobroy991" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/instagram.svg" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
