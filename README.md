@@ -114,39 +114,28 @@ Text classification and sentiment analysis application using Natural Language Pr
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🌐 Connect with Me
-
-🚀 Let's connect, share ideas, and collaborate on innovative web development, AI, and open-source projects.
-
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/grontho-roy-5a8184332" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg" width="40" height="40"/>
-      </a>
-    </td>
-    <td width="20"></td>
-    <td align="center">
-      <a href="https://github.com/Grontho-Roy-Nirob" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/github.svg" width="40" height="40"/>
-      </a>
-    </td>
-    <td width="20"></td>
-    <td align="center">
-      <a href="https://www.facebook.com/profile.php?id=100011866234254" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/facebook.svg" width="40" height="40"/>
-      </a>
-    </td>
-    <td width="20"></td>
-    <td align="center">
-      <a href="https://www.instagram.com/nirobroy991" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/instagram.svg" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:E4405F&height=120&section=header" width="100%"/>
+
+### 🌐 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/grontho-roy-5a8184332" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Grontho-Roy-Nirob" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100011866234254" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nirobroy991" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<sub>💬 Open to collaborate on Tech, AI & Open-Source projects</sub>
 
 </div>
 
