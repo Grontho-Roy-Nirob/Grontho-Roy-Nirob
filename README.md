@@ -26,8 +26,6 @@ Passionate about building modern web applications, solving problems, and explori
 
 <br/>
 
----
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="left">
