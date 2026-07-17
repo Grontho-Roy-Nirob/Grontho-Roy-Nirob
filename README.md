@@ -161,16 +161,31 @@ Text classification and sentiment analysis application using Natural Language Pr
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# 🌐 Areas of Interest
+<div align="left">
 
-* Full-Stack Web Development
-* Software Engineering
-* Artificial Intelligence (AI)
-* Machine Learning (ML)
-* Natural Language Processing (NLP)
-* Generative AI
-* System Design
-* Cloud Computing
+## 🌐 Areas of Interest
+
+<table>
+<tr>
+<td>
+
+💻 Full-Stack Web Development
+🛠️ Software Engineering
+🧠 Artificial Intelligence (AI)
+🤖 Machine Learning (ML)
+📝 Natural Language Processing (NLP)
+✨ Generative AI
+🏗️ System Design
+☁️ Cloud Computing
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
