@@ -164,14 +164,14 @@ Text classification and sentiment analysis application using Natural Language Pr
 
 ## 🌐 Areas of Interest
 
-<img src="https://img.shields.io/badge/Full--Stack%20Development-4B0082?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software%20Engineering-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-1E90FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-FF4081?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Design-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud%20Computing-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full--Stack%20Development-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Computing-181717?style=for-the-badge"/>
 
 </div>
 
