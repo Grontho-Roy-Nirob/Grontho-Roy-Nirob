@@ -11,7 +11,13 @@ Passionate about building modern web applications, solving problems, and explori
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🚀 About Me
+<div align="center">
+
+## 🚀 About Me
+
+</div>
+
+<br/>
 
 * 🔭 Currently learning **NestJS, Next.js, TypeScript, System Design, Machine Learning, and NLP**
 * 🌱 Expanding my knowledge in **Backend Development, Scalable Architectures, AI, and Deep Learning**
@@ -19,6 +25,10 @@ Passionate about building modern web applications, solving problems, and explori
 * 👯 Looking to collaborate on **Open Source, Web Development, and AI Projects**
 * 💬 Ask me about **JavaScript, React, Next.js, Node.js, NestJS, MongoDB, Machine Learning, and NLP**
 * 🎯 Goal: Become a Professional Software Engineer & AI Engineer
+
+<br/>
+
+---
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
