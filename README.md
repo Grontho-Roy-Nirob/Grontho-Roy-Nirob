@@ -160,7 +160,7 @@ Text classification and sentiment analysis application using Natural Language Pr
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🌐 Areas of Interest
+# 🚀 Areas of Interest
 
 - 💻 Full-Stack Web Development
 - ⚙️ Software Engineering
