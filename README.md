@@ -25,6 +25,7 @@ Passionate about building modern web applications, solving problems, and explori
 * 🎯 Goal: Become a Professional Software Engineer & AI Engineer
 
 <br/>
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="left">
