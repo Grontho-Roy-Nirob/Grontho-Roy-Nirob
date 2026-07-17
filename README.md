@@ -118,21 +118,23 @@ Text classification and sentiment analysis application using Natural Language Pr
 
 🚀 Let's connect, share ideas, and collaborate on innovative web development, AI, and open-source projects.
 
-<a href="https://www.linkedin.com/in/grontho-roy-5a8184332" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
-</a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/grontho-roy-5a8184332" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg" width="35" height="35" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Grontho-Roy-Nirob" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/github.svg" width="35" height="35" alt="GitHub"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100011866234254" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/facebook.svg" width="35" height="35" alt="Facebook"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/nirobroy991" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/instagram.svg" width="35" height="35" alt="Instagram"/>
   </a>
 </p>
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
