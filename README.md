@@ -11,13 +11,11 @@ Passionate about building modern web applications, solving problems, and explori
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<div align="center">
+<div align="left">
 
 ## 🚀 About Me
 
 </div>
-
-<br/>
 
 * 🔭 Currently learning **NestJS, Next.js, TypeScript, System Design, Machine Learning, and NLP**
 * 🌱 Expanding my knowledge in **Backend Development, Scalable Architectures, AI, and Deep Learning**
