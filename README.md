@@ -139,6 +139,8 @@ Text classification and sentiment analysis application using Natural Language Pr
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E4405F,100:0A66C2&height=100&section=footer" width="100%"/>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # ⚡ Fun Fact
