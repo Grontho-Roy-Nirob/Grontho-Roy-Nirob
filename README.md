@@ -22,13 +22,11 @@ Passionate about building modern web applications, solving problems, and explori
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<div align="center">
+<div align="left">
 
 ## 🛠️ Tools & Technologies
 
 </div>
-
-<br/>
 
 **🎨 Frontend**
 <div>
