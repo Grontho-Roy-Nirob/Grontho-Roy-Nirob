@@ -120,8 +120,8 @@ Text classification and sentiment analysis application using Natural Language Pr
 
 <p align="center">
   <a href="https://www.linkedin.com/in/grontho-roy-5a8184332" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
   <a href="https://github.com/Grontho-Roy-Nirob" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -133,9 +133,6 @@ Text classification and sentiment analysis application using Natural Language Pr
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Grontho-Roy-Nirob&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
