@@ -160,23 +160,16 @@ Text classification and sentiment analysis application using Natural Language Pr
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<div align="left">
+# 🌐 Areas of Interest
 
-## 🌐 Areas of Interest
-
-<img src="https://img.shields.io/badge/Full--Stack%20Development-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software%20Engineering-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Design-181717?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud%20Computing-181717?style=for-the-badge"/>
-
-</div>
-
-<br/>
-
+- 💻 Full-Stack Web Development
+- ⚙️ Software Engineering
+- 🤖 Artificial Intelligence (AI)
+- 🧠 Machine Learning (ML)
+- 💬 Natural Language Processing (NLP)
+- ✨ Generative AI & Agentic AI
+- 🏗️ System Design & Software Architecture
+- ☁️ Cloud Computing
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
