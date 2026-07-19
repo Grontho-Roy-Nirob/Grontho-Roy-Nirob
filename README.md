@@ -150,14 +150,6 @@ A desktop-based metro rail ticketing application developed using Python and Tkin
 
 🔗 Repository: https://github.com/Grontho-Roy-Nirob/Metro-Rail-System
 
----
-
-## 🤖 NLP Text Analysis System
-
-Text classification and sentiment analysis application using Natural Language Processing techniques.
-
-**Tech Stack:** Python, Scikit-Learn, NLP
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🚀 Areas of Interest
