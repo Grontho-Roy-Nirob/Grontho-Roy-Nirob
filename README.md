@@ -141,6 +141,8 @@ Developed a full-stack tool-sharing platform where users can list, discover, and
 
 **Tech Stack:** Next.js, NestJS, Supabase, Tailwind CSS, JWT
 
+🔗 Repository: https://github.com/Grontho-Roy-Nirob/Tool-Sharing-Platform-Backend
+
 ---
 
 ## 🚆 Metro Rail Ticketing System
