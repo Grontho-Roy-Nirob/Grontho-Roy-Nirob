@@ -18,7 +18,7 @@
 - 🌱 Expanding my knowledge in **Backend Development, Scalable Architecture, AI & Deep Learning**
 - 🤖 Exploring **Machine Learning, NLP, Generative AI & Agentic AI**
 - 👯 Looking to collaborate on **Open Source, Web Development & AI Projects**
- 🎯 Working towards becoming a **skilled Software Engineer**
+- 🎯 Working towards becoming a **skilled Software Engineer**
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
