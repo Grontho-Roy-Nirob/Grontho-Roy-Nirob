@@ -22,17 +22,6 @@ and exploring Artificial Intelligence, Machine Learning & NLP.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🚀 About Me
-
-- 🔭 Currently learning **Next.js, NestJS, TypeScript, System Design, Machine Learning & NLP**
-- 🌱 Expanding my knowledge in **Backend Development, Scalable Architecture, AI & Deep Learning**
-- 🤖 Exploring **Machine Learning, Natural Language Processing (NLP), Generative AI & Agentic AI**
-- 👯 Looking to collaborate on **Open Source, Web Development & AI Projects**
-- 💬 Ask me about **JavaScript, React, Next.js, Node.js, NestJS, MongoDB, Machine Learning & NLP**
-- 🎯 Goal: Become a **Professional Software Engineer & AI Engineer**
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <div align="left">
 
 ## 🚀 About Me
