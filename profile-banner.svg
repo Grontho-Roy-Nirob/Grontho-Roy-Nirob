@@ -1,0 +1,89 @@
+<svg width="1200" height="380" viewBox="0 0 1200 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="1200" height="380" rx="20" fill="#0D1117"></rect>
+
+  <!-- Left Section -->
+  <text x="70" y="100" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">
+    Hi, I'm Grontho Roy 👋
+  </text>
+
+  <text x="70" y="150" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600">
+    Aspiring Full-Stack Web Developer
+  </text>
+
+  <text x="70" y="188" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="22">
+    Software Developer
+  </text>
+
+  <text x="70" y="245" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    Building modern web applications
+  </text>
+
+  <text x="70" y="275" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    and exploring AI, ML &amp; NLP.
+  </text>
+
+  <!-- Tech badges -->
+  <rect x="70" y="310" width="92" height="34" rx="8" fill="#161B22"></rect>
+  <text x="88" y="333" fill="#F7DF1E" font-family="Arial" font-size="15" font-weight="600">
+    JavaScript
+  </text>
+
+  <rect x="172" y="310" width="90" height="34" rx="8" fill="#161B22"></rect>
+  <text x="190" y="333" fill="#3178C6" font-family="Arial" font-size="15" font-weight="600">
+    TypeScript
+  </text>
+
+  <rect x="272" y="310" width="72" height="34" rx="8" fill="#161B22"></rect>
+  <text x="291" y="333" fill="#FFFFFF" font-family="Arial" font-size="15" font-weight="600">
+    Next.js
+  </text>
+
+  <rect x="354" y="310" width="72" height="34" rx="8" fill="#161B22"></rect>
+  <text x="372" y="333" fill="#E0234E" font-family="Arial" font-size="15" font-weight="600">
+    NestJS
+  </text>
+
+  <!-- Code Window -->
+  <rect x="690" y="55" width="440" height="280" rx="15" fill="#161B22" stroke="#30363D" stroke-width="2"></rect>
+
+  <!-- Window Header -->
+  <circle cx="720" cy="82" r="6" fill="#FF5F56"></circle>
+  <circle cx="742" cy="82" r="6" fill="#FFBD2E"></circle>
+  <circle cx="764" cy="82" r="6" fill="#27C93F"></circle>
+
+  <text x="805" y="88" fill="#8B949E" font-family="monospace" font-size="14">
+    developer.ts
+  </text>
+
+  <!-- Code -->
+  <text x="720" y="130" fill="#FF7B72" font-family="monospace" font-size="17">
+    const developer = {
+  </text>
+
+  <text x="740" y="162" fill="#79C0FF" font-family="monospace" font-size="16">
+    name:
+    <tspan fill="#A5D6FF">"Grontho Roy"</tspan>,
+  </text>
+
+  <text x="740" y="194" fill="#79C0FF" font-family="monospace" font-size="16">
+    role:
+    <tspan fill="#A5D6FF">"Software Developer"</tspan>,
+  </text>
+
+  <text x="740" y="226" fill="#79C0FF" font-family="monospace" font-size="16">
+    stack:
+    <tspan fill="#A5D6FF">"Full-Stack"</tspan>,
+  </text>
+
+  <text x="740" y="258" fill="#79C0FF" font-family="monospace" font-size="16">
+    interests:
+    <tspan fill="#A5D6FF">["AI", "ML", "NLP"]</tspan>
+  </text>
+
+  <text x="720" y="302" fill="#FF7B72" font-family="monospace" font-size="17">
+    };
+  </text>
+
+</svg>

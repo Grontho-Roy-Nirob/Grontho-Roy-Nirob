@@ -4,13 +4,14 @@
 
 # 👋 Hi, I'm Grontho Roy
 
-### 🚀 Full-Stack Web Developer | 🤖 AI Enthusiast | 🎓 Computer Science Student
+### 🚀 Aspiring Full-Stack Web Developer | 💻 Software Developer | 🤖 AI/ML Enthusiast | 🎓 CSE Student
 
-Passionate about building modern web applications, solving problems, and exploring Artificial Intelligence technologies.
+Passionate about building modern, scalable web applications and solving real-world problems through technology. I enjoy developing full-stack solutions while continuously exploring Artificial Intelligence, Machine Learning, and Natural Language Processing (NLP).
 
-📍 Based in Bangladesh  
-🎓 B.Sc. in Computer Science & Engineering  
-💻 Interested in Full-Stack Web Development, Software Engineering, Artificial Intelligence, Machine Learning, and Natural Language Processing (NLP)
+📍 Based in Bangladesh
+🎓 B.Sc. in Computer Science & Engineering
+💻 Interested in Full-Stack Web Development, Software Engineering, AI, Machine Learning, and NLP
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -20,12 +21,10 @@ Passionate about building modern web applications, solving problems, and explori
 
 </div>
 
-* 🔭 Currently learning **NestJS, Next.js, TypeScript, System Design, Machine Learning, and NLP**
-* 🌱 Expanding my knowledge in **Backend Development, Scalable Architectures, AI, and Deep Learning**
-* 🤖 Exploring **Machine Learning, Natural Language Processing (NLP), and Generative AI**
-* 👯 Looking to collaborate on **Open Source, Web Development, and AI Projects**
-* 💬 Ask me about **JavaScript, React, Next.js, Node.js, NestJS, MongoDB, Machine Learning, and NLP**
-* 🎯 Goal: Become a Professional Software Engineer & AI Engineer
+- 🔭 Currently learning **Next.js, NestJS, TypeScript, System Design, Machine Learning & NLP**
+- 🌱 Expanding my knowledge in **Backend Development, Scalable Architecture, AI & Deep Learning**
+- 🤖 Exploring **Machine Learning, NLP, Generative AI & Agentic AI**
+- 👯 Looking to collaborate on **Open Source, Web Development & AI Projects**
 
 <br/>
 
