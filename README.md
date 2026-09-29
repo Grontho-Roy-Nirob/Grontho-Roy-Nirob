@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.svg" width="100%" alt="Grontho Roy Profile Banner"/>
+  <img src="./profile-banner.svg" width="100%" />
 </p>
 
 # 👋 Hi, I'm Grontho Roy
