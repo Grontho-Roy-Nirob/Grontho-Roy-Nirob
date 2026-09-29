@@ -2,10 +2,6 @@
   <img src="./profile-banner.svg" width="100%" />
 </p>
 
-📍 Based in Bangladesh
-🎓 B.Sc. in Computer Science & Engineering
-💻 Interested in Full-Stack Web Development, Software Engineering, AI, Machine Learning, and NLP
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="left">
@@ -20,6 +16,10 @@
 - 👯 Looking to collaborate on **Open Source, Web Development & AI Projects**
 - 🎯 Working towards becoming a **skilled Software Engineer**
 
+<br/>
+
+📍 Bangladesh  |  🎓 B.Sc. in Computer Science & Engineering
+💻 Full-Stack Web Development  |  🤖 AI • Machine Learning • NLP
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
