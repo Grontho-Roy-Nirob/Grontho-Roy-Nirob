@@ -2,16 +2,9 @@
   <img src="./profile-banner.svg" width="100%" />
 </p>
 
-# 👋 Hi, I'm Grontho Roy
-
-### 🚀 Aspiring Full-Stack Web Developer | 💻 Software Developer | 🤖 AI/ML Enthusiast | 🎓 CSE Student
-
-Passionate about building modern, scalable web applications and solving real-world problems through technology. I enjoy developing full-stack solutions while continuously exploring Artificial Intelligence, Machine Learning, and Natural Language Processing (NLP).
-
 📍 Based in Bangladesh
 🎓 B.Sc. in Computer Science & Engineering
 💻 Interested in Full-Stack Web Development, Software Engineering, AI, Machine Learning, and NLP
-
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
