@@ -1,13 +1,35 @@
-# 👋 Hi, I'm Grontho Roy  
+<div align="center">
 
-### 🚀 Full-Stack Web Developer | 🤖 AI Enthusiast | 🎓 Computer Science Student  
+# 👋 Hi, I'm Grontho Roy
 
+### 🚀 Full-Stack Web Developer | 🤖 AI/ML Enthusiast | 🎓 CSE Student
 
-Passionate about building modern web applications, solving problems, and exploring Artificial Intelligence technologies.
+Passionate about building modern web applications, solving real-world problems,
+and exploring Artificial Intelligence, Machine Learning & NLP.
 
-📍 Based in Bangladesh
-🎓 B.Sc. in Computer Science & Engineering
-💻 Interested in Full-Stack Web Development, Software Engineering, Artificial Intelligence, Machine Learning, and Natural Language Processing (NLP)
+📍 Bangladesh &nbsp; | &nbsp; 🎓 B.Sc. in Computer Science & Engineering
+
+<br/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+</div>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🚀 About Me
+
+- 🔭 Currently learning **Next.js, NestJS, TypeScript, System Design, Machine Learning & NLP**
+- 🌱 Expanding my knowledge in **Backend Development, Scalable Architecture, AI & Deep Learning**
+- 🤖 Exploring **Machine Learning, Natural Language Processing (NLP), Generative AI & Agentic AI**
+- 👯 Looking to collaborate on **Open Source, Web Development & AI Projects**
+- 💬 Ask me about **JavaScript, React, Next.js, Node.js, NestJS, MongoDB, Machine Learning & NLP**
+- 🎯 Goal: Become a **Professional Software Engineer & AI Engineer**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
