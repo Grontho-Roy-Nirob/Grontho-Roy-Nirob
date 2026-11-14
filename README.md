@@ -99,6 +99,8 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+🎯 Areas of Interest
+
 - 💻 Full-Stack Web Development
 - ⚙️ Software Engineering & Backend Development
 - 🧪 Software Testing & Quality Assurance (QA)
