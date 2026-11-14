@@ -154,13 +154,14 @@ A desktop-based metro rail ticketing application developed using Python and Tkin
 # 🚀 Areas of Interest
 
 - 💻 Full-Stack Web Development
-- ⚙️ Software Engineering
-- 🤖 Artificial Intelligence (AI)
-- 🧠 Machine Learning (ML)
+- ⚙️ Software Engineering & Backend Development
+- 🧪 Software Testing & Quality Assurance (QA)
+- 🔍 Manual Testing & API Testing
+- 🏗️ System Design & Scalable Architecture
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning & Deep Learning
 - 💬 Natural Language Processing (NLP)
 - ✨ Generative AI & Agentic AI
-- 🏗️ System Design & Software Architecture
-- ☁️ Cloud Computing
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
