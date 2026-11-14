@@ -99,7 +99,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🎯 Areas of Interest
+##  🎯 Areas of Interest
 
 - 💻 Full-Stack Web Development
 - ⚙️ Software Engineering & Backend Development
